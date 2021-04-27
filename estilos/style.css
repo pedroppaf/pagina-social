@@ -32,3 +32,7 @@ p.desc{
 li{
     margin-top: 5px;
 }
+a{
+    color: blue;
+    text-decoration: none;
+}
